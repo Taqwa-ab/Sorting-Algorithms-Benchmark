@@ -15,7 +15,7 @@
 | Quick Sort | 21,481 | 5,270 | 9,249 | 3,534 |
 
 ## 3. الرسم البياني (Chart)
-![Benchmark Chart](Random وReversely Sorted وPartially Sorted وFully Sorted.png)
+![Benchmark Chart](benchmark_chart.png)
 
 ## 4. تحليل ومناقشة النتائج
 
